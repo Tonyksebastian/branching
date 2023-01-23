@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 add 
 =======
 mul
 >>>>>>> multipy
+=======
+div
+>>>>>>> division
